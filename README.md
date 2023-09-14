@@ -1,7 +1,7 @@
 # Asset-Price-Notifier
 #As a finance enthusiaist, I love to track my assests performance from time to time. 
-#However, when something unusual happens in the markets, let's say NASDAQ rises by 10% a day - I want to know it, and even check the latest news regarding it. 
-#This little project comes to solve just that! 
+However, when something unusual happens in the markets, let's say NASDAQ rises by 10% a day - I want to know it, and even check the latest news regarding it. 
+This little project comes to solve just that! 
 
 #The concept is quite simple:
   #1) Obtain data from API regarding stocks and other assets' performance.
